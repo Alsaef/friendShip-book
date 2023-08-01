@@ -1,0 +1,23 @@
+.profile-img{
+    border-radius: 50%;
+    width: 50px;
+}
+.ankor{
+    text-decoration: none;
+}
+/* Add any other styles you need for the button */
+button {
+    padding: 10px 20px;
+    font-size: 23px;
+    border: none;
+    cursor: pointer;
+    background-color: white;
+  }
+  
+  /* Define styles for the 'liked' class */
+  .liked {
+    background-color: white; /* Change this to the color you desire */
+    color: crimson; /* Text color when liked */
+    /* Add any other styles you want to apply when the button is liked */
+  }
+  

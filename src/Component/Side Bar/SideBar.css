@@ -1,0 +1,13 @@
+.side-friendbar img{
+    border-radius: 50%;
+    width: 60px;
+    border: 2px solid ;
+}
+.position-absolute-active{
+    position: absolute;
+    left: 45px; 
+    top: 39.9px; 
+}
+.bg-danger-active{
+    background-color: rgb(146, 235, 13);
+}

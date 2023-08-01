@@ -1,0 +1,40 @@
+.main{
+display: grid;
+grid-template-columns: 2fr 2.8fr 1fr;
+}
+.card-story{
+    padding: 5px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 5px;
+}
+.img img{
+    border-radius: 50%;
+    width: 50px;
+}
+.position-relative-img{
+    position: relative;
+}
+.position-absolute-icon{
+    position: absolute;
+    left: 37px;
+    bottom: 1px;
+}
+.position-absolute-icon{
+    color: white;
+    font-size: 20px;
+    background: skyblue;
+   border-radius: 10px;
+}
+
+.side-img img{
+    border-radius: 50%;
+    width: 42px;
+}
+.sidebar-icon{
+    font-size: 30px; 
+}
+.sidebar{
+   position: sticky;
+   position: sticky;
+   top: 0;
+}
